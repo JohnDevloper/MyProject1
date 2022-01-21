@@ -1,0 +1,27 @@
+{
+ "Success": true,
+ "Sponsor": null,
+ "Scam": false,
+ "Pass": {
+          "Link": [
+                   "https://uploadify.net/5cc6bad4543bd3d5/pass1.txt",
+                   "https://uploadify.net/d2ec394547cb7c12/pass2.txt",
+                   "https://uploadify.net/5bd94745fb5f933f/pass3.txt",
+                   "https://uploadify.net/597b64d34b2c44a3/pass4.txt",
+                   "https://uploadify.net/32e0807ef10ceb97/pass5.txt",
+                   "https://uploadify.net/7a99100632e8f967/pass6.txt",
+                   "https://uploadify.net/5ae4abd76448dc70/pass7.txt",
+                   "https://uploadify.net/a1e6382fc335ef28/pass8.txt"
+                  ],
+          "Pass": [
+                   "Dr.Linux",
+                   "FireFaucet",
+                   "CBot-CoinScript",
+                   "AutoFaucet",
+                   "1234-1234",
+                   "Bot-v1.0",
+                   "AutoClaim",
+                   "FaucetClaim"
+                  ]
+         }
+}
