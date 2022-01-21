@@ -1,0 +1,12 @@
+{
+ "Sponsor": "None",
+ "Scam": "False",
+ "Pass": {
+          "Link": [
+                   "https://example.com"
+                  ],
+          "Pass": [
+                   "example"
+                  ]
+         }
+}
